@@ -1,0 +1,8 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\bin\Debug\150921_CodeEval_SumofDigits.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\bin\Debug\150921_CodeEval_SumofDigits.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\bin\Debug\150921_CodeEval_SumofDigits.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\obj\Debug\150921_CodeEval_SumofDigits.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\obj\Debug\150921_CodeEval_SumofDigits.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\bin\Debug\150921_CodeEval_SumofDigits.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\obj\Debug\150921_CodeEval_SumofDigits.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week3 - Strings & Text, Numeral Systems, Methods, Recursion\150921_CodeEval_SumofDigits\150921_CodeEval_SumofDigits\obj\Debug\150921_CodeEval_SumofDigits.pdb
